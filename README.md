@@ -1,7 +1,7 @@
 # btc-pay_cabinet_demo
 Demo: https://vyacheslavtykhonchuk.github.io/btc-pay_cabinet_demo/
 
- Stores:  https://vyacheslavtykhonchuk.github.io/btc-pay_cabinet_demo/ 
+ 
  
  _________
  
