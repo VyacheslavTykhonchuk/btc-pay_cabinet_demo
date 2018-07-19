@@ -1,7 +1,7 @@
 # btc-pay_cabinet_demo
 Demo: https://vyacheslavtykhonchuk.github.io/btc-pay_cabinet_demo/
 
- Stores:  https://vyacheslavtykhonchuk.github.io/btc-pay_cabinet_demo/ 
+ 
  
  _________
  
@@ -18,6 +18,8 @@ Demo: https://vyacheslavtykhonchuk.github.io/btc-pay_cabinet_demo/
  Balances: https://vyacheslavtykhonchuk.github.io/btc-pay_cabinet_demo/balances
  
  New store: https://vyacheslavtykhonchuk.github.io/btc-pay_cabinet_demo/new-store
+ 
+ Plans: https://vyacheslavtykhonchuk.github.io/btc-pay_cabinet_demo/plans
  
  
 
